@@ -18,3 +18,9 @@
  const myFunction = function(){
     console.log("Hello world");
  }
+
+
+
+ //  +++++++++++++++++++++++++++++
+
+ // Stack (Primitive), Heap(Non-Primitive)
